@@ -1,0 +1,31 @@
+# Arduino IDE
+*.hex
+*.eep
+*.elf
+*.bin
+*.map
+
+# Build directories
+build/
+.build/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Arduino cache
+.arduino/
+__pycache__/
